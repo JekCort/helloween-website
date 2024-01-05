@@ -742,7 +742,7 @@ img {
 
 /*=============== SCROLL UP ===============*/
 
-.scrolluop {
+.scrollup {
   position: fixed;
   right: 1rem;
   bottom: -50%;
@@ -757,7 +757,7 @@ img {
   transition: bottom .3s, transform .3s;
 }
 
-.scrolluop:hover {
+.scrollup:hover {
   transform: translateY(-.25rem);
 }
 
